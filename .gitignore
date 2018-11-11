@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+
+### Custom exceptions
+
+# README html file
+README.html
+
+# Tensorflow package installation files
+tensorflow*.whl
